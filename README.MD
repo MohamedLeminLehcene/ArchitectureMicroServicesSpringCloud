@@ -33,6 +33,5 @@
 <img src="phots/2/img06.png">
 <img src="phots/2/img07.png">
 <img src="phots/2/img08.png">
-<img src="phots/2/img09.png">
 <img src="phots/2/img10.png">
 <img src="phots/2/img11.png">
