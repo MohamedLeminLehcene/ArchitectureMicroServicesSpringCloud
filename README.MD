@@ -67,3 +67,12 @@
 <img src="phots/4/img09.png">
 <img src="phots/4/img10.png">
 <img src="phots/4/img11.png">
+
+
+<p>5 - Tester le proxy en utilisant une configuration dynamique de gestion des routes vers les micro services dans l'annuaire Eureka Server. </p>
+<img src="phots/5/img01.png">
+<img src="phots/5/img02.png">
+<img src="phots/5/img03.png">
+<img src="phots/5/img04.png">
+<img src="phots/5/img05.png">
+<img src="phots/5/img06.png">
