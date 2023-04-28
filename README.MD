@@ -54,3 +54,16 @@
 <img src="phots/3/img10.png">
 <img src="phots/3/img11.png">
 <img src="phots/3/img12.png">
+
+<p>4 - Créer L'annuaire Registry Service basée sur NetFlix Eureka Server. </p>
+<img src="phots/4/img01.png">
+<img src="phots/4/img04.png">
+<img src="phots/4/img02.png">
+<img src="phots/4/img07.png">
+<img src="phots/4/img03.png">
+<img src="phots/4/img05.png">
+<img src="phots/4/img06.png">
+<img src="phots/4/img08.png">
+<img src="phots/4/img09.png">
+<img src="phots/4/img10.png">
+<img src="phots/4/img11.png">
