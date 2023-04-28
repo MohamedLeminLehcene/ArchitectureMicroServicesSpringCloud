@@ -28,7 +28,6 @@
 
 <img src="phots/2/img01.png">
 <img src="phots/2/img02.png">
-<img src="phots/2/img03.png">
 <img src="phots/2/img04.png">
 <img src="phots/2/img05.png">
 <img src="phots/2/img06.png">
