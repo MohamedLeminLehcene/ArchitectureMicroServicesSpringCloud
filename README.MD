@@ -35,3 +35,22 @@
 <img src="phots/2/img08.png">
 <img src="phots/2/img10.png">
 <img src="phots/2/img11.png">
+
+<p>3 - Créer la Gateway service en utilisant Spring Cloud Gateway</p>
+<ul>
+<li>Tester la service proxy en utilisant une configuration statique basée sur le fichier application.yml.</li>
+<li>Tester la service proxy en utilisant une configuration statique basée sur une Configuration Java.</li>
+</ul>
+
+
+<img src="phots/3/img01.png">
+<img src="phots/3/img02.png">
+<img src="phots/3/img04.png">
+<img src="phots/3/img05.png">
+<img src="phots/3/img06.png">
+<img src="phots/3/img07.png">
+<img src="phots/3/img08.png">
+<img src="phots/3/img09.png">
+<img src="phots/3/img10.png">
+<img src="phots/3/img11.png">
+<img src="phots/3/img12.png">
